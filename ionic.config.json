@@ -1,0 +1,8 @@
+{
+  "name": "makefit",
+  "app_id": "a151066e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
